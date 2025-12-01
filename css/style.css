@@ -16,6 +16,7 @@ body {
   padding: 15px 25px;
   background: #dcf470;
   border-bottom: 1px solid #eee;
+  z-index: 10; 
 }
 
 
@@ -29,6 +30,7 @@ body {
   display: flex;
   gap: 25px;
   list-style: none;
+  z-index: 20;
 }
 
 .nav-links a {
@@ -69,7 +71,7 @@ body {
     position: absolute;
     top: 70px;
     right: 0;
-    background: white;
+    background: rgb(153, 241, 10);
     width: 200px;
     flex-direction: column;
     padding: 20px;
