@@ -92,7 +92,7 @@ body {
 .hero-section {
   position: relative;
   height: 90vh;
-  background-image: url("/images/waterfall.jpg");
+  background-image: url("images/waterfall.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
